@@ -1,0 +1,12 @@
+C:\Projetos\Net Core\ASPNETCore2_Swagger\APITemperatura\APITemperatura\bin\Debug\netcoreapp2.0\APITemperatura.xml
+C:\Projetos\Net Core\ASPNETCore2_Swagger\APITemperatura\APITemperatura\bin\Debug\netcoreapp2.0\APITemperatura.deps.json
+C:\Projetos\Net Core\ASPNETCore2_Swagger\APITemperatura\APITemperatura\bin\Debug\netcoreapp2.0\APITemperatura.runtimeconfig.json
+C:\Projetos\Net Core\ASPNETCore2_Swagger\APITemperatura\APITemperatura\bin\Debug\netcoreapp2.0\APITemperatura.runtimeconfig.dev.json
+C:\Projetos\Net Core\ASPNETCore2_Swagger\APITemperatura\APITemperatura\bin\Debug\netcoreapp2.0\APITemperatura.dll
+C:\Projetos\Net Core\ASPNETCore2_Swagger\APITemperatura\APITemperatura\bin\Debug\netcoreapp2.0\APITemperatura.pdb
+C:\Projetos\Net Core\ASPNETCore2_Swagger\APITemperatura\APITemperatura\obj\Debug\netcoreapp2.0\APITemperatura.csprojAssemblyReference.cache
+C:\Projetos\Net Core\ASPNETCore2_Swagger\APITemperatura\APITemperatura\obj\Debug\netcoreapp2.0\APITemperatura.csproj.CoreCompileInputs.cache
+C:\Projetos\Net Core\ASPNETCore2_Swagger\APITemperatura\APITemperatura\obj\Debug\netcoreapp2.0\APITemperatura.AssemblyInfoInputs.cache
+C:\Projetos\Net Core\ASPNETCore2_Swagger\APITemperatura\APITemperatura\obj\Debug\netcoreapp2.0\APITemperatura.AssemblyInfo.cs
+C:\Projetos\Net Core\ASPNETCore2_Swagger\APITemperatura\APITemperatura\obj\Debug\netcoreapp2.0\APITemperatura.dll
+C:\Projetos\Net Core\ASPNETCore2_Swagger\APITemperatura\APITemperatura\obj\Debug\netcoreapp2.0\APITemperatura.pdb

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APITemperatura</name>
+    </assembly>
+    <members>
+        <member name="M:APITemperatura.Controllers.ConversorTemperaturasController.GetConversaoCelsius(System.Double)">
+            <summary>
+            Transforma uma temperatura em Celsius para o equivalente
+            nas escalas Fahrenheit e Kelvin.
+            </summary>
+            <param name="temperatura">Temperatura em Celsius</param>
+            <returns>Objeto contendo valores para uma temperatura
+            nas escalas Celsius, Fahrenheit e Kelvin.</returns>
+        </member>
+    </members>
+</doc>
